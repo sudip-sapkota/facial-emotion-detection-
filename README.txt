@@ -1,5 +1,6 @@
 # Facial Emotion Detection Project - Complete Setup Guide
-
+find the full project in this path 
+https://drive.google.com/file/d/1JzKXhaJS08Y9cWPwsKtnWu6i6DzoK_S2/view?usp=drive_link
 ## Project Overview
 This project implements a deep learning system for facial emotion recognition specifically designed for people wearing face masks. The model classifies 7 emotions (angry, disgust, fear, happy, neutral, sad, surprise) and includes comprehensive bias analysis across demographic groups.
 
@@ -156,3 +157,4 @@ This project is for educational purposes. Please respect the original dataset li
 
 ---
 Last updated: September 2025
+
